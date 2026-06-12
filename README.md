@@ -46,7 +46,7 @@ The system extracts **Mel-Frequency Cepstral Coefficients (MFCCs)** from raw aud
 The app is hosted on Streamlit Community Cloud:
 
 ```
-https://<your-streamlit-app-url>.streamlit.app
+https://deepfakeaudiodetector-wav.streamlit.app
 ```
 
 Upload any `.wav`, `.flac`, or `.mp3` file (≥ 3 seconds recommended) and receive an instant verdict with confidence scores and signal visualizations.
