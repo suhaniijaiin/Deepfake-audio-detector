@@ -278,7 +278,7 @@ EER is the point on the DET curve where the false acceptance rate equals the fal
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/deepfake-audio-detector.git
+git clone https://github.com/suhaniijaiin/deepfake-audio-detector.git
 cd deepfake-audio-detector
 ```
 
@@ -342,7 +342,7 @@ python test_audio.py --file audio.wav --json            # output as JSON
 
 ### Run the training notebook
 
-Open `notebook.ipynb` in Jupyter or Google Colab and run all cells in order:
+Open `notebook.ipynb` in Jupyter or Google Colab or kaggle and run all cells in order:
 
 ```
 1. Data loading & EDA
@@ -386,13 +386,7 @@ The Streamlit app (`app.py`) provides:
 | `matplotlib`   | ≥ 3.7.0   | Waveform and spectrogram plots     |
 | `soundfile`    | ≥ 0.12.1  | Audio file I/O backend for librosa |
 
----
 
-## 📄 License
-
-This project is released under the MIT License. See `LICENSE` for details.
-
----
 
 <div align="center">
   Made with ♥ by <strong>Suhani</strong>
