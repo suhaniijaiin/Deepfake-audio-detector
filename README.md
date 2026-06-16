@@ -68,9 +68,8 @@ deepfake-audio-detector/
 │   ├── ensemble_softvote.keras   # Trained ensemble model
 │   └── ensemble_meta.json        # Config + decision threshold
 │
-└── report/
-    ├── performance_report.md     # Accuracy, EER, F1, confusion matrix
-    └── confusion_matrix.png      # Confusion matrix figure
+└── performance_report.md     # Accuracy, EER, F1, confusion matrix
+        
 ```
 
 ---
